@@ -1,1 +1,0 @@
-# acloudguru-serverless-azure
